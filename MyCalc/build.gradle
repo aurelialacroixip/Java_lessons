@@ -1,4 +1,4 @@
 apply plugin: 'java'
 apply plugin: 'application'
-mainClassName = 'Calc'
+mainClassName = 'com.company.Main'
 run {standardInput = System.in}
