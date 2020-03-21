@@ -10,3 +10,5 @@ public class Main {
         }
     }
 }
+
+// jvmArgs += ["-XX:+UseSerialGC"] -> build.gradle
